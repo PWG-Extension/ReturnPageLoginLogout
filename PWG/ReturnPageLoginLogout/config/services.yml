@@ -1,0 +1,8 @@
+services:
+    PWG.ReturnPageLoginLogout.listener:
+        class: PWG\ReturnPageLoginLogout\event\listener
+        arguments:
+            - @template
+            - @user
+        tags:
+            - { name: event.listener }

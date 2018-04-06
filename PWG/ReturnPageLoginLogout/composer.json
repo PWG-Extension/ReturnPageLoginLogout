@@ -1,0 +1,29 @@
+{
+    "name": "PWG/ReturnPageLoginLogout",
+    "type": "phpbb-extension",
+    "description": "Возвращает пользователя на просматриваемую страницу, после входа/выхода с сайта.",
+    "homepage": "http://www.precision-machines.ru",
+    "keywords": ["PWG", "page", "return", "login", "logout"],
+    "version": "1.0.0",
+    "time": "06.04.2018",
+    "license": "GNU GPL-2.0",
+    "authors": [
+        {
+            "name": "Александр Кадников [Predator]",
+            "homepage": "http://www.precision-machines.ru",
+            "role": "Разработчик"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+      "phpbb/epv": "dev-master"
+    },
+    "extra": {
+        "display-name": "Return Page Login/Logout",
+        "soft-require": {
+        "phpbb/phpbb": "3.1.*, 3.2.*"
+        }
+    }
+}
