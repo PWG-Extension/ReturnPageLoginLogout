@@ -1,6 +1,6 @@
 # ReturnPageLoginLogout
 
-Русский:
+# Русский:
 
 Расширение: Return Page Login/Logout
 
@@ -8,7 +8,7 @@
 
 Версия: 1.0.0 / 06.04.2018
 
-English:
+# English:
 
 Extension: Return Page Login/Logout
 
