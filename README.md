@@ -20,6 +20,6 @@ phpBB3: 3.1.*, 3.2.*
 
 Site: http://www.precision-machines.ru
 
-github: https://github.com/PWG-Extension/ReturnPageLoginLogout
+https://github.com/PWG-Extension/ReturnPageLoginLogout.git
 
 © PWG, Alexander Kadnikoff,  2018. All Rights Reserved.
