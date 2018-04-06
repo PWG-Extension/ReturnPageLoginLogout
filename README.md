@@ -22,4 +22,4 @@ Site: http://www.precision-machines.ru
 
 https://github.com/PWG-Extension/ReturnPageLoginLogout.git
 
-© PWG, Alexander Kadnikoff,  2018. All Rights Reserved.
+© PWG, Александр Кадников [Predator],  2018. All Rights Reserved.
