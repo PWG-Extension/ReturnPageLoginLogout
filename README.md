@@ -21,8 +21,8 @@ Version: 1.0.0 / 06.04.2018
 
 Version phpBB3: >=3.1.5, <3.3
 
-Site: http://www.precision-machines.ru
+Homepage: https://github.com/PWG-Extension/ReturnPageLoginLogout
 
-https://github.com/PWG-Extension/ReturnPageLoginLogout.git
+Site: http://www.precision-machines.ru
 
 © «PWG», Alexander Kadnikoff [Predator],  2018. All Rights Reserved.
