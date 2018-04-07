@@ -8,6 +8,9 @@
 
 Версия: 1.0.0 / 06.04.2018
 
+Версия phpBB3: >=3.1.5, <3.3
+
+
 # English:
 
 Extension: Return Page Login/Logout
@@ -16,10 +19,10 @@ Description: Returns the user to the page viewed, after Login/Logout the site.
 
 Version: 1.0.0 / 06.04.2018
 
-phpBB3: 3.1.*, 3.2.*
+Version phpBB3: >=3.1.5, <3.3
 
 Site: http://www.precision-machines.ru
 
 https://github.com/PWG-Extension/ReturnPageLoginLogout.git
 
-© PWG, Александр Кадников [Predator],  2018. All Rights Reserved.
+© «PWG», Alexander Kadnikoff [Predator],  2018. All Rights Reserved.
