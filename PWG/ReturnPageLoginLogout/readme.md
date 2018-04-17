@@ -4,7 +4,7 @@
 
 **Расширение:** Return Page Login/Logout
 
-**Описание:** Возвращает неавторизованного пользователя на просматриваемую страницу, после входа на сайт.
+**Описание:** Возвращает неавторизованного пользователя на просматриваемую страницу, после входа/выхода с сайта.
 
 **Версия:** 1.0.0 / 06.04.2018
 
@@ -15,7 +15,7 @@
 
 **Extension:** Return Page Login/Logout
 
-**Description:** Returns an unauthorized user to the page being viewed, after login in to the site
+**Description:** Returns an unauthorized user to the page being viewed, after login/logout in to the site
 
 **Version:** 1.0.0 / 06.04.2018
 
